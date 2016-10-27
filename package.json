@@ -1,0 +1,27 @@
+{
+  "name": "emran-mysql",
+  "version": "1.0.4",
+  "description": "A simple, always-connected, reliable mysql connector.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emranbm/emran-mysql.git"
+  },
+  "keywords": [
+    "mysql",
+    "emran-mysql",
+    "database"
+  ],
+  "author": "Mr. Coder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emranbm/emran-mysql/issues"
+  },
+  "homepage": "https://github.com/emranbm/emran-mysql#readme",
+  "dependencies": {
+    "mysql": "^2.11.1"
+  }
+}
