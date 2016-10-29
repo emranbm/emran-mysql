@@ -6,7 +6,14 @@
 
 const mysql = require('mysql');
 
-
+/**
+ *
+ * @param username
+ * @param pass
+ * @param dbName Database name in your mySql server.
+ * @param dbAddress The address to the database. It's optional and by default it is assumed as "localhost".
+ * @return {connection} Don't se this as a function. Use it like class.
+ */
 function connection(username, pass, dbName, dbAddress) {
 
     var connection;
