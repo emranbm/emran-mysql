@@ -1,6 +1,6 @@
 {
   "name": "emran-mysql",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A simple, always-connected, reliable mysql connector.",
   "main": "index.js",
   "scripts": {
